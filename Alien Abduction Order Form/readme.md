@@ -2,7 +2,7 @@
 
 **Order you Abduction now:** [Here](https://mitzelldone.github.io/FrontendMasters-Bootcamp//Alien%20Abduction%20Order%20Form/index.html)
 
-![Alien Abduction Order Form](../img/alien%20abduction%20form.PNG)
+![Demo](../Alien%20Abduction%20Order%20Form/img/demo.PNG)
 
 ## Description
 - Learn to build a basic form using HTML and CSS.
