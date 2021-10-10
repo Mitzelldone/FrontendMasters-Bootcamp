@@ -1,8 +1,8 @@
 # 👽🛸Alien Abduction Order Form
 
-**Order you Abduction now:** https://mitzelldone.github.io/FrontendMasters-Bootcamp/Alien%20Abduction%20Order%20Form/index.html
+**Order you Abduction now:** [Here](https://mitzelldone.github.io/FrontendMasters-Bootcamp//Alien%20Abduction%20Order%20Form/index.html)
 
-[![Alien Abduction Order Form](./img/alien%20abduction%20form.PNG)](https://mitzelldone.github.io/Alien_Abduction_Order_Form/forms.html)
+![Alien Abduction Order Form](../img/alien%20abduction%20form.PNG)
 
 ## Description
 - Learn to build a basic form using HTML and CSS.
