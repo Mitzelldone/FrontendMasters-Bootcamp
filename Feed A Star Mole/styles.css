@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    cursor: url(./assets/cursor.png),default;
+    background-color: #c0c86d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.2);
+} 
+
+.bg {
+    background-image: url(./assets/background.png);
+    background-repeat: no-repeat;
+    width: 1920px;
+    height: 1080px;
+    display: flex;  
+    flex-wrap: wrap; 
+    justify-content: center;
+    align-items: center; 
+    box-shadow: 0 25px 40px rgba(0, 0, 0, 1);
+    border-radius: 2rem;
+}
+
+.hole {
+    background-color: black;
+    border-radius: 50%;
+    overflow: visible;
+    width: 267px;
+    height: 267px;
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.5); 
+    border: 0.5px solid #c0c86d; 
+}
+
+.hole-container {
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.mole {
+    position: relative;
+    right: 30px;
+    
+}
+
+.hungry {
+    cursor: url(./assets/cursor-worm.png),default;
+}
+
+.gone {
+    display: none;
+}
+
+.hide {
+    display: none;
+}
+
+
+/* --------worm------ */
+.worm {
+    width: 1660px;
+}
+
+.worm-container {
+    overflow: hidden;
+    transition: width 0.5s ease-in-out;
+}
+
+.worm-box {
+    width: 1600px;
+    border: 0.5px solid #c0c86d;
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.5);
+    padding: 2rem 2rem;
+    border-radius: 2rem;
+}
+/* ---x----worm---x-- */
+
+
+
+/* --------win------ */
+.win-bg{
+    box-shadow: 0 25px 40px rgba(0, 0, 0, 1);
+}
+
+h2{
+    border: 0.5px solid #c0c86d;
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* ----x---win---x-- */
