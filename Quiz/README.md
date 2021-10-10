@@ -1,6 +1,5 @@
 # ❓Quiz
-## Demo
-👉[Quiz](https://mitzelldone.github.io/Quiz/index.html)
+### Demo: [Quiz](https://mitzelldone.github.io/FrontendMasters-Bootcamp/Quiz/index.html)
 
 ![Demo](./quiz.gif)
 ## Description
@@ -9,7 +8,7 @@ Build simple quiz game for beginner.
  - Every correct answer you will get a point and the result will be shown after you finish it.
  - Pop-up will appear to let you know your answer is correct or incorrect.
 
-2. **Want can be when building the game?**
+2. **Want can be learn when building the game?**
  - Improve JavaScript Fundamentals.
    - .toUpperCase
    - .substring
