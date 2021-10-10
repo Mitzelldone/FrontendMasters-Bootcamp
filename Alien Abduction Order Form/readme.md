@@ -1,6 +1,6 @@
 # 👽🛸Alien Abduction Order Form
 
-**Order you Abduction now:** [Here](https://mitzelldone.github.io/FrontendMasters-Bootcamp//Alien%20Abduction%20Order%20Form/index.html)
+**Order you Abduction now:** [Here](https://mitzelldone.github.io/FrontendMasters-Bootcamp/Alien%20Abduction%20Order%20Form/index.html)
 
 ![Demo](../Alien%20Abduction%20Order%20Form/img/demo.PNG)
 
