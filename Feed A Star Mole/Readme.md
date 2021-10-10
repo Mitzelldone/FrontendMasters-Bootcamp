@@ -1,4 +1,4 @@
-# Feed A Star Mole Game 🏕
+# 🕹️Feed A Star Mole Game
 👉**PLAY [HERE](https://mitzelldone.github.io/FrontendMasters-Bootcamp/Feed%20A%20Star%20Mole/Index.html)** 
 
 [![Demo Web Feed A Star Mole Game](./assets/demo.png)](https://mitzelldone.github.io/Feed_A_Star_Mole/Index.html)
