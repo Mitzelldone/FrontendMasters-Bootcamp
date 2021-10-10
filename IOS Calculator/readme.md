@@ -1,5 +1,5 @@
 # IOS_Calculator
-![DEMO IOS CALCULATOR](./IOS%20Calculator/calculator.gif)
+![DEMO IOS CALCULATOR](../IOS%20Calculator/calculator.gif)
 
 **THE CALCULATOR DEMO:** [HERE](https://mitzelldone.github.io/FrontendMasters-Bootcamp/IOS&20Calculator/calculator.html)
 
