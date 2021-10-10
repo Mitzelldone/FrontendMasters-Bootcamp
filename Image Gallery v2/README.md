@@ -1,5 +1,5 @@
 # 🖼️Image Gallery Version 2
-👉[DEMO](https://mitzelldone.github.io/Image_Gallery_v2/index.html)
+👉[DEMO](https://mitzelldone.github.io/FrontendMasters-Bootcamp/Image%20Gallery%20v2/index.html)
 
 ![Image Gallery v2](./images/demo.gif)
 ## Description
