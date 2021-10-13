@@ -1,6 +1,5 @@
 # Frontend Masters Bootcamp 🏕️ 
-Get a complete, ground-up introduction to HTML, CSS, and JavaScript. Get hands-on experience building projects.
-
+![Bootcamp](./Bootcamp.PNG)
 ## Table Of Content
 Here are some of the project
 
