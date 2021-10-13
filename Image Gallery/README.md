@@ -1,5 +1,5 @@
 # 🖼️Image Gallery
-👉[DEMO](https://mitzelldone.github.io/Image_Gallery/Index.html)
+👉[DEMO](https://mitzelldone.github.io/FrontendMasters-Bootcamp/Image%20Gallery/Index.html)
 
 ![Image Gallery of Luna](./images/image-gallery.gif)
 ## Description

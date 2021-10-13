@@ -1,5 +1,5 @@
 # 🐶DOG APP
-👉**Demo:** [The Doggos](https://mitzelldone.github.io/Dog_App/index.html)
+👉**Demo:** [The Doggos](https://mitzelldone.github.io/FrontendMasters-Bootcamp//Dog%20App/index.html)
 
 ![Dog App](./Dog-App.PNG)
 ## Introduction
